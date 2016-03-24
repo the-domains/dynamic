@@ -1,7 +1,7 @@
 name: Dynamic
 favicon: null
-layout_spectrum: 0.7167515594046563
-typography_spectrum: 0.13370453100651503
+layout_spectrum: 1
+typography_spectrum: 0.0754
 cta:
   domain: null
   bucket: null
