@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dynamic]]></title>
+        <description><![CDATA[Dynamic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 01:16:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>After college, I thought about what subject that *I* most wanted to learn about.  It had to be something that would serve me well my entire life and would benefit others in my life too.  I thought about being a pro in a sport or activity, I contemplated being an expert on the stock market, and I considered esthetician school so I could have gorgeous skin, (hey, it was right after college... what can I say?)  All of these seemed either temporary, self-serving, or lacked depth.  </p>]]></description>
+            <link>undefined26371538-2e77-4ac6-9a8a-4d54f126241e/index.html</link>
+            <guid isPermaLink="false">26371538-2e77-4ac6-9a8a-4d54f126241e</guid>
+            <pubDate>Thu, 24 Mar 2016 01:15:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
