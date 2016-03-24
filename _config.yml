@@ -1,0 +1,28 @@
+name: Dynamic
+favicon: null
+layout_spectrum: 0.7167515594046563
+typography_spectrum: 0.13370453100651503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7632916588336229
+  lightness: 0.16278664651326835
+  saturation: 0.1471363641321659
+  rhythmicContrast: 0.7129476519767195
+purpose: []
